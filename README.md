@@ -1,6 +1,4 @@
 <h1 align="center"  style="color:green;">Hi 👋, I'm Mohammed Aqib uddin</h1>
-<h1 style="color: green;">Your H1 Header</h1>
-
 <h3 align="center">A Enthusiast Techie From India.</h3>
 <img align="right" alt="Coding width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
