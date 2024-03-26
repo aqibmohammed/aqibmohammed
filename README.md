@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqibmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="aqibmohammed" /> </p>
 
-- 🔭 I’m currently working on **Web Application**
+- 🔭 I’m currently working on **Web Application** **&** **Mobile Application**
 
 - 🌱 I’m currently learning **React,Flutter,TechStack,Dsa**
 
